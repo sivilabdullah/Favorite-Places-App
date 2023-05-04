@@ -11,11 +11,6 @@ My Favorite Places is an iOS application that allows users to save and list thei
 - The application stores the data using Core Data and preserves the data that the user saved.
 - The application includes map features using MapKit.
 
-![Screenshot 2023-05-04 at 7 54 09 AM](https://user-images.githubusercontent.com/57291537/236115689-8eb57170-6887-4b65-be44-6dd7a1958bbc.png)
-![Screenshot 2023-05-04 at 7 51 33 AM](https://user-images.githubusercontent.com/57291537/236115691-a830bdfb-b217-46c7-9681-e61c1c2b6efd.png)
-![Screenshot 2023-05-04 at 7 54 26 AM](https://user-images.githubusercontent.com/57291537/236115693-1ef93a95-6e3a-4853-884f-84f694a2d6de.png)
-![Screenshot 2023-05-04 at 7 56 09 AM](https://user-images.githubusercontent.com/57291537/236115694-401b3b5e-d2bd-4cdf-8240-6f89bd1b15c0.png)
-
 
 ## Screenshots
 | List Screen | Save Location Screen |
