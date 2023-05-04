@@ -1,4 +1,4 @@
-# My Favorite Places
+# Favorite Places
 
 My Favorite Places is an iOS application that allows users to save and list their favorite places. The application presents users with a map view and users can mark their favorite places on this map. Additionally, users can add extra information (address, description, photo, etc.) for each marked location.
 
